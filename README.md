@@ -1,3 +1,4 @@
+
 ## Angular-Boilerplate
 
 This app tries to adhere to the Angular best practices, as defined by Google, and uses a modular structure to organize the code.
@@ -27,4 +28,6 @@ $templateCache for caching your templates. see core /app/scripts/modules/core/co
 
 
 cole.peterson@possible.com
+
+=======
 
